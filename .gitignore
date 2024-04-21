@@ -1,0 +1,13 @@
+# python optmization files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# environment
+.env
+.venv
+env/
+venv/
+
+# pyenv
+.python-version
